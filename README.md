@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 7 |
+| 16 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
@@ -59,6 +59,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 
 ### math
 
