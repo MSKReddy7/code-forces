@@ -6,19 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 25 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (3)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (5)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (12)
-- [math](#math) (3)
+- [implementation](#implementation) (19)
+- [math](#math) (5)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (8)
 
 ---
 
@@ -28,12 +30,20 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 2](https://github.com/MSKReddy7/code-forces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 
 ### greedy
@@ -48,9 +58,13 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
@@ -58,16 +72,27 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 2](https://github.com/MSKReddy7/code-forces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 
 ### sortings
 
@@ -79,11 +104,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/MSKReddy7/code-forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MSKReddy7/code-forces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 
 ---
 
